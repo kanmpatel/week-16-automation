@@ -1,0 +1,214 @@
+2022-05-25 18:05:569 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 18:05:116 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (47dcdf48633c9d351261bf02fb41eba3)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 18:05:291 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : QEOshena@gmail.com to email address field
+2022-05-25 18:05:747 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:562 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (ad19d9769d1490b9ee0bd64f1c0e1c01)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:992 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : kwvshena@gmail.com to email address field
+2022-05-25 19:05:90 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (ad19d9769d1490b9ee0bd64f1c0e1c01)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-25 19:05:138 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-25 19:05:481 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-25 19:05:547 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-25 19:05:611 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-25 19:05:678 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-25 19:05:741 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-25 19:05:87 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-25 19:05:161 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-25 19:05:203 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-25 19:05:278 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-25 19:05:357 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (ad19d9769d1490b9ee0bd64f1c0e1c01)] -> xpath: //span[normalize-space()='Register']]
+2022-05-25 19:05:233 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (ad19d9769d1490b9ee0bd64f1c0e1c01)] -> xpath: //h1[@class='page-heading']]
+2022-05-25 19:05:920 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:543 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (ddba33e8aea2349b74a50bdbaa93840b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:712 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : wlyjohn@gmail.com to email address field
+2022-05-25 19:05:594 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:341 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (26c9b172bd0d235369647c311e0c79e0)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:653 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : wuMjohn@gmail.com to email address field
+2022-05-25 19:05:746 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (26c9b172bd0d235369647c311e0c79e0)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-25 19:05:801 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-25 19:05:19 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-25 19:05:90 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-25 19:05:159 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-25 19:05:238 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-25 19:05:317 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-25 19:05:592 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-25 19:05:668 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-25 19:05:711 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-25 19:05:786 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-25 19:05:861 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (26c9b172bd0d235369647c311e0c79e0)] -> xpath: //span[normalize-space()='Register']]
+2022-05-25 19:05:673 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (26c9b172bd0d235369647c311e0c79e0)] -> xpath: //h1[@class='page-heading']]
+2022-05-25 19:05:96 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:621 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (94118b00b6c9a5acc2502016e1cf12b0)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:494 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 19:05:572 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 19:05:649 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (94118b00b6c9a5acc2502016e1cf12b0)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 19:05:93 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:952 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (4c8dd368bf58751f977da96559e5c8cd)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:01 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 19:05:83 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 19:05:157 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (4c8dd368bf58751f977da96559e5c8cd)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 19:05:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:929 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (a982dd0fc2ac4f74898c671d0b62e4ce)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:417 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 19:05:495 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 19:05:582 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (a982dd0fc2ac4f74898c671d0b62e4ce)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 19:05:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 19:05:55 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (0186741f2bd681b361dc1263b543f144)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 19:05:593 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 19:05:679 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 19:05:752 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (0186741f2bd681b361dc1263b543f144)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 21:05:332 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 21:05:408 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (fc0dafb22573a8fde8114ac908cea3df)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 21:05:705 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 21:05:816 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 21:05:903 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (fc0dafb22573a8fde8114ac908cea3df)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 21:05:100 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 21:05:771 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (6ca75b261385c91808be743106af0b44)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 21:05:377 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 21:05:476 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 21:05:568 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (6ca75b261385c91808be743106af0b44)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 21:05:416 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 21:05:103 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (509c5b3a5eedec2536827a52186ab5d4)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 21:05:52 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 21:05:165 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 21:05:280 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (509c5b3a5eedec2536827a52186ab5d4)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 21:05:196 INFO  HomePage :37 - clicking On 'DRESSES' link tab : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='sfHover']//a[@title='Dresses'][normalize-space()='Dresses']']'
+2022-05-25 21:05:279 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 21:05:737 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (fb8f19c38ddf7296c57ace3a04652227)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 21:05:397 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 21:05:490 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 21:05:589 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (fb8f19c38ddf7296c57ace3a04652227)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 21:05:247 INFO  HomePage :37 - clicking On 'DRESSES' link tab : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='sfHover']//a[@title='Dresses'][normalize-space()='Dresses']']'
+2022-05-25 22:05:909 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:342 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (8a891f2273dfde05796c231f68e58de9)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:772 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:814 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:864 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (135ade552bcc74d8bff2aaa0d9aecd1c)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:743 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:862 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:960 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (135ade552bcc74d8bff2aaa0d9aecd1c)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:768 INFO  HomePage :37 - clicking On 'DRESSES' link tab : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='sfHover']//a[@title='Dresses'][normalize-space()='Dresses']']'
+2022-05-25 22:05:925 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:426 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (68aa6c1aac17fafbc5ba132b870ddd7c)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:12 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:106 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:196 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (68aa6c1aac17fafbc5ba132b870ddd7c)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:349 INFO  HomePage :37 - clicking On 'DRESSES' link tab : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='sfHover']//a[@title='Dresses'][normalize-space()='Dresses']']'
+2022-05-25 22:05:291 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:94 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (32178f8818010a34478ec4522436c3c9)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:202 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:306 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:402 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (32178f8818010a34478ec4522436c3c9)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:60 INFO  HomePage :37 - clicking On 'DRESSES' link tab : [[ChromeDriver: chrome on WINDOWS (32178f8818010a34478ec4522436c3c9)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-25 22:05:138 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:391 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (be8c9e505ff6a3695120e7843e1bee1e)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:05 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:113 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:219 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (be8c9e505ff6a3695120e7843e1bee1e)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:872 INFO  HomePage :37 - clicking On 'DRESSES' link tab : [[ChromeDriver: chrome on WINDOWS (be8c9e505ff6a3695120e7843e1bee1e)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-25 22:05:586 INFO  HomePage :37 - clicking On 'DRESSES' link tab : [[ChromeDriver: chrome on WINDOWS (be8c9e505ff6a3695120e7843e1bee1e)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-25 22:05:900 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:993 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (fb807ef05b688eaad304cd3287f98771)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:725 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:819 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:920 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (fb807ef05b688eaad304cd3287f98771)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:949 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:633 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (edc7acfb5a64dd710a7768c915b70ece)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:987 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:77 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:166 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (edc7acfb5a64dd710a7768c915b70ece)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:223 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:509 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7d768b3e4fb30fe5434bbfd6f6b996be)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:345 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:434 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:524 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (7d768b3e4fb30fe5434bbfd6f6b996be)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:409 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:285 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:621 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (5b2bf2f8a0a9cc7cc6ec9a852b708a97)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:782 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:278 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:117 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (446e59f29534c4cf3289f1f4a64c380d)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:986 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:74 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:159 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (446e59f29534c4cf3289f1f4a64c380d)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:148 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:421 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (9d4521000ed8e70e7f005dee705dbc1a)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:333 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:423 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:510 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (9d4521000ed8e70e7f005dee705dbc1a)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:877 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:773 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (b44ec0e024c9f293bd81e8abdd1421df)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:608 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:701 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:790 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (b44ec0e024c9f293bd81e8abdd1421df)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-25 22:05:998 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:05 INFO  HomePage :60 - clicking On 'SIGNIN' link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']'
+2022-05-25 22:05:746 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-25 22:05:551 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (a180402031e19509d7a72a2bf308d491)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-25 22:05:88 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-25 22:05:184 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-25 22:05:261 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (a180402031e19509d7a72a2bf308d491)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:90 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:210 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (d5272c2088c3536cec399e17fdea3578)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:506 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:590 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:663 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (d5272c2088c3536cec399e17fdea3578)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:880 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:275 INFO  HomePage :61 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (d58f86f24ae5b1c84294764c8b5e9e4e)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:724 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:814 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:885 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (d58f86f24ae5b1c84294764c8b5e9e4e)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:904 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:901 INFO  HomePage :61 - clicking On 'SIGNIN' link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']'
+2022-05-27 19:05:75 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:419 INFO  HomePage :61 - clicking On 'SIGNIN' link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']'
+2022-05-27 19:05:407 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:66 INFO  HomePage :61 - clicking On 'SIGNIN' link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']'
+2022-05-27 19:05:203 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:309 INFO  HomePage :60 - clicking On 'SIGNIN' link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Log in to your customer account']'
+2022-05-27 19:05:518 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:957 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (6302516ce57f3e2544936f9fac8416b8)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:99 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:177 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:254 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (6302516ce57f3e2544936f9fac8416b8)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:77 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:31 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (4ab4a881bc35fd959b64bdfcce721372)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:894 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:974 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:48 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (4ab4a881bc35fd959b64bdfcce721372)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:257 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:182 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (f8da4387a43a7c4ade9a2a8bafd6e000)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:17 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:91 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:164 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (f8da4387a43a7c4ade9a2a8bafd6e000)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:21 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:401 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (3ef95a4b5bcc168ffc2e28fd16910f89)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:515 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:609 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:688 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (3ef95a4b5bcc168ffc2e28fd16910f89)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 19:05:900 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 19:05:563 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (dfb7b48ac7be8415055ec9aed0fa0cfc)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 19:05:314 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 19:05:397 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 19:05:467 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (dfb7b48ac7be8415055ec9aed0fa0cfc)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 21:05:737 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 21:05:110 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (cb2fd9b226bba4b3a1b4a03a8e58ddbd)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 21:05:08 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 21:05:114 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 21:05:213 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (cb2fd9b226bba4b3a1b4a03a8e58ddbd)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 21:05:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 21:05:467 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (2cceb428c5c005358f4420a041ebc55d)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 21:05:753 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 21:05:862 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 21:05:953 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (2cceb428c5c005358f4420a041ebc55d)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 21:05:851 INFO  ProductPage :85 - get model name' : demo_3
+2022-05-27 21:05:883 INFO  ProductPage :51 - select 'SIZE' from drop down : 2
+2022-05-27 21:05:787 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-27 21:05:169 INFO  HomePage :60 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (a054775266b2f771ac8e751e79b39c5e)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-27 21:05:182 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :wuMjohn@gmail.com to email address field
+2022-05-27 21:05:292 INFO  SignInPage :62 - enter the 'PASSWORD' for login :1234567 to password address field
+2022-05-27 21:05:387 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (a054775266b2f771ac8e751e79b39c5e)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-27 21:05:605 INFO  ProductPage :85 - get model name' : demo_3
+2022-05-27 21:05:637 INFO  ProductPage :44 - enter the 'QUANTITY' : 2
+2022-05-27 21:05:485 INFO  ProductPage :85 - get model name' : demo_1
+2022-05-27 21:05:520 INFO  ProductPage :44 - enter the 'QUANTITY' : 3
